@@ -1,0 +1,12 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.top{
+    text-align: center;
+    font-weight: 600;
+    font-size: larger;
+    padding: 100px;
+    border: 10;
+    border-color: black;
+}
